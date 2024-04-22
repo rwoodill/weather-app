@@ -77,3 +77,8 @@ https://www.youtube.com/watch?v=Reny0cTTv24
 
 ## The corresponding github page is as follows:
 https://github.com/bobangajicsm/react-weather-app
+
+# API KEYS
+
+Must add the correct api keys in the file "api.js" 
+An example of format is included in "apiExample.js"
