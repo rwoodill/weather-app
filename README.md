@@ -1,3 +1,22 @@
+# weather-app
+This project creates an application that will tell you the current weather, as well as the 7-day forecast. This project was created using React and JavaScript.
+
+![weather-app](https://github.com/rwoodill/weather-app/assets/40248698/1cf6ae85-ebe1-4ab4-bdba-af6edd190b8a)
+
+# Sources
+
+Please view the following video for source code:
+[YouTube Source Code](https://www.youtube.com/watch?v=Reny0cTTv24)
+
+The corresponding github page is as follows:
+[Github Source Code](https://github.com/bobangajicsm/react-weather-app)
+
+# API KEYS
+
+Must add the correct api keys in the file "api.js"
+
+An example of format is included in "apiExample.js"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,40 +64,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-# Sources
-
-## Please view the following video for source code:
-https://www.youtube.com/watch?v=Reny0cTTv24
-
-## The corresponding github page is as follows:
-https://github.com/bobangajicsm/react-weather-app
-
-# API KEYS
-
-Must add the correct api keys in the file "api.js" 
-An example of format is included in "apiExample.js"
